@@ -1,0 +1,527 @@
+"Incident Date",State,"City Or County",Address,"Participant Gender","Participant Name","Participant Age Group",Operations
+"December 21, 2024",Ohio,Akron,"400 block of Wildwood Ave",male,N/A,"Child 0-11",N/A
+"December 20, 2024",Georgia,"Glynn (county)",N/A,N/A,N/A,"Child 0-11",N/A
+"December 17, 2024",Michigan,Detroit,"18841 Russell",male,N/A,"Child 0-11",N/A
+"December 17, 2024",Alabama,Birmingham,"1061 Huffman Rd",male,N/A,"Child 0-11",N/A
+"December 16, 2024","District of Columbia",Washington,"50 block of Galveston St SW",female,N/A,"Child 0-11",N/A
+"December 15, 2024",Tennessee,Savannah,"TN-203 and Emmaus Way",female,"Karsyn Johnson","Child 0-11",N/A
+"December 14, 2024",Florida,Hialeah,"901 E Eighth Ave",male,N/A,"Child 0-11",N/A
+"December 14, 2024",Mississippi,"Yazoo City","280 Magnolia Dr",female,N/A,"Child 0-11",N/A
+"December 14, 2024",Illinois,Chicago,"1062 W 14th Pl",male,N/A,"Child 0-11",N/A
+"December 14, 2024",Louisiana,"Baton Rouge","3100 block of Fairfields Ave",male,N/A,"Child 0-11",N/A
+"December 13, 2024",Illinois,Chicago,"1400 block of N Western Ave",male,N/A,"Child 0-11",N/A
+"December 9, 2024",Missouri,"Saint Louis","7300 block of Burrwood Dr",male,N/A,"Child 0-11",N/A
+"December 7, 2024",Tennessee,Cordova,"900 block of Pheasant Hollow Dr",N/A,N/A,"Child 0-11",N/A
+"December 7, 2024",Virginia,Blackstone,"Wilson Rd",male,N/A,"Child 0-11",N/A
+"December 5, 2024",Indiana,Richmond,"100 block of S 18th St",female,N/A,"Child 0-11",N/A
+"December 4, 2024",California,Oroville,"27 Cox Ln",male,"Roman Mendez","Child 0-11",N/A
+"December 4, 2024",California,Oroville,"27 Cox Ln",male,"Elias Wolfard","Child 0-11",N/A
+"December 3, 2024",Tennessee,Memphis,"Wabash Ave and Castalia St",female,Aaliyah,"Child 0-11",N/A
+"December 3, 2024","North Carolina",Lawndale,"Buck Horn Ln and Nolan Rd",N/A,N/A,"Child 0-11",N/A
+"December 3, 2024",Louisiana,"Baton Rouge","300 block of S 17th St",female,N/A,"Child 0-11",N/A
+"December 3, 2024",Missouri,Springfield,"1000 block of S Kansas Ave",N/A,N/A,"Child 0-11",N/A
+"December 1, 2024",Alabama,Birmingham,"2615 Tempest Dr SW",male,N/A,"Child 0-11",N/A
+"November 29, 2024",Wisconsin,Neenah,"130 W Bell St",male,N/A,"Child 0-11",N/A
+"November 28, 2024",Ohio,Cleveland,"16100 block of Lakeshore Blvd",male,N/A,"Child 0-11",N/A
+"November 28, 2024","North Carolina","Four Oaks","Parkertown Rd and Parker Rd",female,N/A,"Child 0-11",N/A
+"November 27, 2024",Louisiana,"Baton Rouge","1022 Swan Ave",male,N/A,"Child 0-11",N/A
+"November 27, 2024",Louisiana,"Baton Rouge","1022 Swan Ave",male,N/A,"Child 0-11",N/A
+"November 27, 2024","South Carolina",Seneca,"1096 Fairfield Dr",N/A,N/A,"Child 0-11",N/A
+"November 26, 2024",Michigan,Detroit,"541 Dickerson Ave",male,N/A,"Child 0-11",N/A
+"November 23, 2024",California,Bakersfield,"300 block of Roberts Ln",female,N/A,"Child 0-11",N/A
+"November 22, 2024",Texas,Dallas,"3558 Wilhurt Ave",female,N/A,"Child 0-11",N/A
+"November 20, 2024",Texas,Overton,"10900 block of County Rd 29",female,N/A,"Child 0-11",N/A
+"November 20, 2024",Illinois,Chicago,"2400 block of S Oakley Ave",male,N/A,"Child 0-11",N/A
+"November 19, 2024",Tennessee,Memphis,"3600 block of Bankside Dr",female,N/A,"Child 0-11",N/A
+"November 18, 2024","South Carolina",Aiken,"100 block of Tab Dr",male,"Tyson Jones","Child 0-11",N/A
+"November 17, 2024",Mississippi,Jackson,"4200 block of Pyle Ave",female,N/A,"Child 0-11",N/A
+"November 17, 2024",Wisconsin,Milwaukee,"6401 W Bradley Rd",male,N/A,"Child 0-11",N/A
+"November 17, 2024",Alabama,Birmingham,"4800 8th Ave",female,N/A,"Child 0-11",N/A
+"November 16, 2024","North Carolina",Greenville,"2060 Quail Ridge Dr",N/A,N/A,"Child 0-11",N/A
+"November 16, 2024",Ohio,Columbus,"900 block of Ellsworth Ave",male,N/A,"Child 0-11",N/A
+"November 14, 2024",Tennessee,Cordova,"714 N Germantown Pkwy",N/A,N/A,"Child 0-11",N/A
+"November 14, 2024",Tennessee,Cordova,"714 N Germantown Pkwy",N/A,N/A,"Child 0-11",N/A
+"November 13, 2024",Ohio,"South Charleston","400 block of Sunset Ct",male,N/A,"Child 0-11",N/A
+"November 13, 2024",Pennsylvania,"Lancaster (county)",N/A,N/A,N/A,"Child 0-11",N/A
+"November 12, 2024",Mississippi,Meridian,"40th Ave",N/A,N/A,"Child 0-11",N/A
+"November 12, 2024",Wisconsin,Milwaukee,"N 47th St and W Hope Ave",male,N/A,"Child 0-11",N/A
+"November 11, 2024","New York","New York (Manhattan)","301 W 145th St",female,"Fatou Keita","Child 0-11",N/A
+"November 11, 2024",Oklahoma,Tulsa,"N Main St and E 45th St N",female,N/A,"Child 0-11",N/A
+"November 9, 2024",Michigan,Detroit,"15400 block of Manor St",female,N/A,"Child 0-11",N/A
+"November 8, 2024",Wisconsin,Milwaukee,"9220 N 75th St",male,N/A,"Child 0-11",N/A
+"November 6, 2024","New Jersey",Plainfield,"341 Garfield Ave",N/A,N/A,"Child 0-11",N/A
+"November 4, 2024","North Carolina","Cerro Gordo","357 Railroad St SW",male,N/A,"Child 0-11",N/A
+"November 3, 2024",Michigan,Jackson,"4200 block of Lansing Ave",male,N/A,"Child 0-11",N/A
+"November 3, 2024","North Carolina",Raleigh,"5300 block of Big Bass Dr",male,N/A,"Child 0-11",N/A
+"November 3, 2024",Maryland,Bowie,"600 block of Brookedge Ct",female,N/A,"Child 0-11",N/A
+"November 2, 2024",Virginia,Roanoke,"4300 block of Garst Mill Rd",N/A,N/A,"Child 0-11",N/A
+"November 1, 2024",Indiana,"Fort Wayne","3500 block of S Lafayette St",male,N/A,"Child 0-11",N/A
+"November 1, 2024",Illinois,Chicago,"Winona St and Foster Ave",female,N/A,"Child 0-11",N/A
+"October 30, 2024",Michigan,Detroit,"15000 block of Kentfield St",female,N/A,"Child 0-11",N/A
+"October 30, 2024",Michigan,Detroit,"4000 block of W Grand St",male,N/A,"Child 0-11",N/A
+"October 29, 2024",Mississippi,Meridian,"600 block of 46th Ave",N/A,N/A,"Child 0-11",N/A
+"October 29, 2024","New Mexico",Clayton,"301 Magnolia St",female,N/A,"Child 0-11",N/A
+"October 29, 2024",Mississippi,Meridian,"200 block of 45th Ave",N/A,N/A,"Child 0-11",N/A
+"October 27, 2024",Mississippi,Leland,"MLK Jr Dr and Huddleston St",male,N/A,"Child 0-11",N/A
+"October 26, 2024","New York",Bronx,"E 188th St and Park Ave",male,N/A,"Child 0-11",N/A
+"October 26, 2024","South Carolina",Greenville,"400 block of Crosby Cir",male,N/A,"Child 0-11",N/A
+"October 26, 2024",Michigan,"Grand Rapids","200 block of Prospect Ave NE",male,N/A,"Child 0-11",N/A
+"October 25, 2024",California,Sacramento,"4587 Mack Rd",male,N/A,"Child 0-11",N/A
+"October 22, 2024",Pennsylvania,Pittsburgh,"Collier St",male,N/A,"Child 0-11",N/A
+"October 22, 2024","South Carolina",Orangeburg,"Marlboro St",female,N/A,"Child 0-11",N/A
+"October 21, 2024",Washington,"Fall City","7715 Lake Alice Rd SE",female,N/A,"Child 0-11",N/A
+"October 20, 2024",Texas,Houston,"8400 block of Parasol Ln",female,N/A,"Child 0-11",N/A
+"October 20, 2024",Virginia,Norfolk,"400 block of Nicholson St",N/A,N/A,"Child 0-11",N/A
+"October 20, 2024",Missouri,"Saint Louis (Normandy)","4600 block of Sandmark Walk",N/A,N/A,"Child 0-11",N/A
+"October 19, 2024",Arizona,Phoenix,"S 7th Ave and W Southern Ave",N/A,N/A,"Child 0-11",N/A
+"October 19, 2024","North Carolina",Charlotte,"8000 block of Trousdale Dr",male,N/A,"Child 0-11",N/A
+"October 18, 2024",Kentucky,Lexington,"Imperial Ave and Newtown Pike",male,N/A,"Child 0-11",N/A
+"October 18, 2024",Alabama,Dothan,"1701 Stadium St",female,N/A,"Child 0-11",N/A
+"October 18, 2024",Illinois,Chicago,"800 block of E 65th St",male,N/A,"Child 0-11",N/A
+"October 17, 2024",Maryland,"Owings Mills","Deer Park Rd and Wards Chapel Rd",male,N/A,"Child 0-11",N/A
+"October 15, 2024","New York",Olean,"1300 block of Seneca Ave",male,N/A,"Child 0-11",N/A
+"October 15, 2024",Oklahoma,Tulsa,"2731 S 117th E Ave",male,N/A,"Child 0-11",N/A
+"October 15, 2024",Alabama,Birmingham,"1400 block of 3rd Ave",male,"King Pritchett","Child 0-11",N/A
+"October 15, 2024",Alabama,Birmingham,"1400 block of 3rd Ave",male,"Kam Pritchett","Child 0-11",N/A
+"October 14, 2024",Florida,"West Palm Beach","19th St and Division Ave",male,N/A,"Child 0-11",N/A
+"October 12, 2024",Nevada,"Las Vegas",N/A,male,N/A,"Child 0-11",N/A
+"October 12, 2024","North Carolina",Charlotte,"4600 block of Wildwood Ave",female,N/A,"Child 0-11",N/A
+"October 11, 2024",Illinois,Chicago,"39 W 47th St",male,N/A,"Child 0-11",N/A
+"October 11, 2024",Mississippi,Buckatunna,US-45,female,N/A,"Child 0-11",N/A
+"October 10, 2024",Illinois,Chicago,"3800 block of W 87th St",male,N/A,"Child 0-11",N/A
+"October 8, 2024","South Carolina",Georgetown,"2117 Lincoln St",N/A,N/A,"Child 0-11",N/A
+"October 7, 2024",Georgia,Roberta,"541 Leamon Gibson Rd",male,N/A,"Child 0-11",N/A
+"October 7, 2024",Illinois,Chicago,"11616 S Yale Ave",male,"Zayden Garrett","Child 0-11",N/A
+"October 6, 2024","South Carolina",Pendleton,"950 Cherry St",male,N/A,"Child 0-11",N/A
+"October 5, 2024",Oklahoma,"Lexington (Slaughterville)","72nd St and Banner Rd",female,N/A,"Child 0-11",N/A
+"October 4, 2024",Georgia,"Long (county)","Sandy Run Rd",male,N/A,"Child 0-11",N/A
+"October 4, 2024",Illinois,Lyons,"4000 block of Center Ave",male,N/A,"Child 0-11",N/A
+"October 2, 2024",Texas,Dallas,"2800 block of Overton Rd",female,N/A,"Child 0-11",N/A
+"October 1, 2024",Michigan,Detroit,"Cathedral St and Plainview Ave",N/A,N/A,"Child 0-11",N/A
+"October 1, 2024",Tennessee,Memphis,"2900 block of Mimosa Ave",female,N/A,"Child 0-11",N/A
+"September 29, 2024",California,"Pittsburg (Bay Point)","3600 block of Desanie Cir",female,N/A,"Child 0-11",N/A
+"September 28, 2024",Illinois,Chicago,"2500 block of W 61st St",female,N/A,"Child 0-11",N/A
+"September 27, 2024","North Carolina",Fayetteville,"Kaywood Dr",N/A,N/A,"Child 0-11",N/A
+"September 27, 2024",Louisiana,Shreveport,"4310 Illinois Ave",N/A,N/A,"Child 0-11",N/A
+"September 27, 2024",Louisiana,Shreveport,"4310 Illinois Ave",N/A,N/A,"Child 0-11",N/A
+"September 26, 2024",Minnesota,Minneapolis,"3200 block of 29th Ave S",N/A,N/A,"Child 0-11",N/A
+"September 26, 2024",Oklahoma,Tulsa,"Memorial Dr and E 81st St",male,N/A,"Child 0-11",N/A
+"September 25, 2024",Wisconsin,Neillsville,"500 block of W 7th St",female,N/A,"Child 0-11",N/A
+"September 24, 2024",Virginia,Richmond,"2100 block of Newbourne St",male,N/A,"Child 0-11",N/A
+"September 21, 2024",Tennessee,Hixson,"2277 Gold Point Cir N",male,N/A,"Child 0-11",N/A
+"September 21, 2024",Kentucky,Louisville,"600 block of Madelon Ct",male,N/A,"Child 0-11",N/A
+"September 21, 2024",California,Stockton,"3286 Blue Ridge Cir",male,N/A,"Child 0-11",N/A
+"September 21, 2024",Alabama,Mobile,"700 block of Plum St",N/A,N/A,"Child 0-11",N/A
+"September 16, 2024",Massachusetts,Boston,"81 Stratton St",male,N/A,"Child 0-11",N/A
+"September 15, 2024",Texas,"San Antonio","9700 block of Bratton Dr",female,N/A,"Child 0-11",N/A
+"September 15, 2024","North Carolina",Charlotte,"5004 Evoke Living Ln",female,"Leiloni Kinard","Child 0-11",N/A
+"September 15, 2024","South Carolina",Walterboro,"800 block of Buffalo Ln",female,N/A,"Child 0-11",N/A
+"September 14, 2024",Michigan,Flint,"1700 block of Marlowe Dr",female,"Kyndall Conerly","Child 0-11",N/A
+"September 14, 2024",Arkansas,Texarkana,N/A,N/A,N/A,"Child 0-11",N/A
+"September 14, 2024",Washington,"Seattle (Des Moines)","22000 block of Pacific Highway S",female,N/A,"Child 0-11",N/A
+"September 14, 2024",Tennessee,Memphis,"2600 block of Lamar Ave",female,N/A,"Child 0-11",N/A
+"September 14, 2024",Illinois,Danville,N/A,N/A,N/A,"Child 0-11",N/A
+"September 14, 2024",Pennsylvania,Williamsport,"500 block of Fifth Ave",N/A,N/A,"Child 0-11",N/A
+"September 12, 2024",Mississippi,Greenville,"Sunflower Ln",N/A,N/A,"Child 0-11",N/A
+"September 9, 2024",Ohio,Cincinnati,"5000 block of Winneste Ave",female,N/A,"Child 0-11",N/A
+"September 8, 2024",Georgia,Appling,"5608 Washington Rd",male,"Jayden Butler","Child 0-11",N/A
+"September 7, 2024",Louisiana,"Baton Rouge","2300 block of Barber St",female,N/A,"Child 0-11",N/A
+"September 7, 2024",Kentucky,"Bowling Green","812 Roselawn Way",female,N/A,"Child 0-11",N/A
+"September 7, 2024",Texas,Houston,"5401 Rampart St",male,N/A,"Child 0-11",N/A
+"September 6, 2024",Michigan,Detroit,"11000 block of St Patrick Ave",male,N/A,"Child 0-11",N/A
+"September 5, 2024",Ohio,Toledo,"900 block of Mackow Dr",male,N/A,"Child 0-11",N/A
+"September 5, 2024",Ohio,Akron,"1100 block of  Hardesty Blvd",male,N/A,"Child 0-11",N/A
+"September 4, 2024",Pennsylvania,Philadelphia,"3200 block of D St",male,N/A,"Child 0-11",N/A
+"September 3, 2024",Tennessee,Memphis,"6895 Club Ln",female,N/A,"Child 0-11",N/A
+"September 1, 2024",Texas,Bullard,"500 block of Guinn St",female,"Lyric Minter","Child 0-11",N/A
+"August 31, 2024",Kansas,Wichita,"1400 block of N Lorraine Ave",male,N/A,"Child 0-11",N/A
+"August 31, 2024",Texas,"Corpus Christi","1500 block of Howard St",male,N/A,"Child 0-11",N/A
+"August 30, 2024","North Carolina",Hamlet,"201 Main St",male,N/A,"Child 0-11",N/A
+"August 30, 2024",California,"San Francisco","66 Chicago Way",female,N/A,"Child 0-11",N/A
+"August 29, 2024",Michigan,Detroit,"Bassett St and Pleasant St",male,N/A,"Child 0-11",N/A
+"August 28, 2024",Tennessee,Memphis,"1300 block of S Lexington Cir",male,N/A,"Child 0-11",N/A
+"August 27, 2024",Indiana,Indianapolis,"2567 S Belmont Ave",male,N/A,"Child 0-11",N/A
+"August 26, 2024",Kentucky,Owensboro,"700 block of Elm St",N/A,N/A,"Child 0-11",N/A
+"August 26, 2024",Michigan,"Muskegon (Muskegon Heights)","2100 block of Reynolds St",N/A,N/A,"Child 0-11",N/A
+"August 25, 2024",Texas,Dallas,"8500 block of Sweetwater Dr",female,"Jasmine Garcia","Child 0-11",N/A
+"August 24, 2024",Indiana,Indianapolis,"6100 block of E 21st St",male,N/A,"Child 0-11",N/A
+"August 24, 2024",Arkansas,"Pine Bluff","1600 block of W 25th St",N/A,N/A,"Child 0-11",N/A
+"August 23, 2024",Pennsylvania,Philadelphia,"600 block of N 12th St",male,N/A,"Child 0-11",N/A
+"August 23, 2024",Michigan,"Madison Heights","30000 block of Palmer St",male,N/A,"Child 0-11",N/A
+"August 22, 2024",Minnesota,Fosston,"35097 420th Ave SE",male,N/A,"Child 0-11",N/A
+"August 22, 2024",Texas,Houston,"2266 Collier St",female,N/A,"Child 0-11",N/A
+"August 22, 2024","North Carolina",Charlotte,"1525 W Arrowood Rd",female,N/A,"Child 0-11",N/A
+"August 21, 2024",Illinois,Chicago,"1200 block of Laramie Ave",male,N/A,"Child 0-11",N/A
+"August 20, 2024",Mississippi,Jackson,"300 block of Maple St",female,N/A,"Child 0-11",N/A
+"August 19, 2024",Kentucky,"Cub Run",N/A,N/A,N/A,"Child 0-11",N/A
+"August 19, 2024",Michigan,Detroit,"Fairmont Dr and Shakespeare St",male,"Isaiah Watson","Child 0-11",N/A
+"August 18, 2024",Minnesota,Minneapolis,"1200 block of W Broadway Ave",female,N/A,"Child 0-11",N/A
+"August 18, 2024","West Virginia","Charleston (South Charleston)","4992 Richland Dr",N/A,N/A,"Child 0-11",N/A
+"August 18, 2024",Indiana,Indianapolis,"5206 W 38th St",N/A,N/A,"Child 0-11",N/A
+"August 17, 2024","South Carolina",Belton,"Glenwood St Ext",N/A,N/A,"Child 0-11",N/A
+"August 17, 2024",Oklahoma,Norman,"OK-9 and 108th Ave",N/A,N/A,"Child 0-11",N/A
+"August 15, 2024",Ohio,Cleveland,"E 13th St and Chester Ave",male,N/A,"Child 0-11",N/A
+"August 15, 2024","New Jersey",Newark,"86 Wainwright St",male,N/A,"Child 0-11",N/A
+"August 14, 2024",Tennessee,Memphis,"203 W Red Oak Dr",male,N/A,"Child 0-11",N/A
+"August 12, 2024",Louisiana,Monroe,"Burg Jones Ln",male,N/A,"Child 0-11",N/A
+"August 10, 2024","South Carolina",Camden,"600 block of St Paul Rd",male,N/A,"Child 0-11",N/A
+"August 9, 2024",Tennessee,Memphis,"3123 Barron Ave",male,N/A,"Child 0-11",N/A
+"August 9, 2024",Kansas,Salina,"Leland Way",female,N/A,"Child 0-11",N/A
+"August 8, 2024",Illinois,Springfield,"3300 block of E Enos Ave",female,N/A,"Child 0-11",N/A
+"August 7, 2024","North Carolina",Garland,"6000 block of Old Mintz Hwy",N/A,N/A,"Child 0-11",N/A
+"August 7, 2024",Maryland,Elkton,"200 block of W High St",male,N/A,"Child 0-11",N/A
+"August 7, 2024",Texas,Dallas,"200 block of W Overton Rd",male,N/A,"Child 0-11",N/A
+"August 6, 2024",California,Stockton,"1227 N Commerce St",male,N/A,"Child 0-11",N/A
+"August 5, 2024","District of Columbia",Washington,"900 block of Bellevue St SE",male,N/A,"Child 0-11",N/A
+"August 4, 2024","South Carolina",Spartanburg,"695 Howard St",female,N/A,"Child 0-11",N/A
+"August 3, 2024",Arkansas,"El Dorado","700 block of Bruster Ave",male,N/A,"Child 0-11",N/A
+"August 3, 2024",Michigan,Warren,"11000 block of Edgemont Ave",male,N/A,"Child 0-11",N/A
+"August 2, 2024",Tennessee,Cordova,"6900 block of Brady Hill Dr",female,N/A,"Child 0-11",N/A
+"August 2, 2024",Utah,Magna,N/A,male,N/A,"Child 0-11",N/A
+"August 1, 2024",Illinois,Chicago,"1100 block of N Kostner Ave",male,N/A,"Child 0-11",N/A
+"July 31, 2024",Virginia,"Virginia Beach","2400 block of Brush Creek Ln",male,N/A,"Child 0-11",N/A
+"July 30, 2024",Tennessee,Chattanooga,"4500 block of Oakland Ave",N/A,N/A,"Child 0-11",N/A
+"July 29, 2024",Michigan,Flint,"2800 block of Ave A",female,"Di'Nylah Robinson","Child 0-11",N/A
+"July 29, 2024",Louisiana,"New Iberia","1100 block of Spencer Loop",male,N/A,"Child 0-11",N/A
+"July 29, 2024",Mississippi,Byhalia,"Thornton Cove and Christopher Cir",male,"Edouardo Montero","Child 0-11",N/A
+"July 28, 2024",Florida,Pensacola,"6405 Wagner Rd",male,N/A,"Child 0-11",N/A
+"July 28, 2024",Louisiana,"New Orleans","1741 McShane Pl",male,N/A,"Child 0-11",N/A
+"July 28, 2024",Ohio,Cincinnati,"1630 Walnut St",N/A,N/A,"Child 0-11",N/A
+"July 28, 2024",Ohio,Columbus,"800 block of Wedgewood Dr",female,N/A,"Child 0-11",N/A
+"July 27, 2024",Florida,Miami,"1240 SW 127th Ct",male,"Dylan Suarez","Child 0-11",N/A
+"July 27, 2024",Illinois,Chicago,"3100 block of W 26th St",male,"Jeremiah Carlos","Child 0-11",N/A
+"July 25, 2024",Washington,Vancouver,"4311 Plomondon St",male,N/A,"Child 0-11",N/A
+"July 24, 2024",Texas,"Fort Worth","2800 block of Horne St",female,N/A,"Child 0-11",N/A
+"July 23, 2024",Alabama,"Birmingham (Center Point)","700 block of Country View Ter",N/A,N/A,"Child 0-11",N/A
+"July 23, 2024",Connecticut,Monroe,"Shelton Rd and Osborn Ln",male,N/A,"Child 0-11",N/A
+"July 23, 2024",Tennessee,Memphis,"N Hollywood St and Heard Ave",male,N/A,"Child 0-11",N/A
+"July 22, 2024",Mississippi,Clarksdale,"800 block of Cuyahoga St",female,N/A,"Child 0-11",N/A
+"July 22, 2024",Arizona,Tucson,"151 W 40th St",female,N/A,"Child 0-11",N/A
+"July 21, 2024",Illinois,Chicago,I-94,male,N/A,"Child 0-11",N/A
+"July 18, 2024","District of Columbia",Washington,"22nd St and Alabama Ave SE",female,Emily,"Child 0-11",N/A
+"July 18, 2024",Pennsylvania,Philadelphia,"4000 block of Meridian St",male,N/A,"Child 0-11",N/A
+"July 15, 2024",Michigan,Inkster,"572 Tobin Dr",male,N/A,"Child 0-11",N/A
+"July 13, 2024",Ohio,"Cincinnati (Norwood)","Hunter Ave",male,N/A,"Child 0-11",N/A
+"July 13, 2024",Pennsylvania,Waynesburg,"303 Mountain View Gardens",male,N/A,"Child 0-11",N/A
+"July 13, 2024",Kentucky,Louisville,"12600 block of Saxony Park Cir",male,N/A,"Child 0-11",N/A
+"July 12, 2024",Georgia,"Fort Valley","1105 Edward St",female,N/A,"Child 0-11",N/A
+"July 12, 2024",Oklahoma,"Oklahoma City","N Council Rd and W Britton Rd",N/A,N/A,"Child 0-11",N/A
+"July 11, 2024",Ohio,Toledo,"800 block of Blum St",male,N/A,"Child 0-11",N/A
+"July 11, 2024",Colorado,"Colorado Springs","3600 block of El Morro Rd",male,N/A,"Child 0-11",N/A
+"July 11, 2024",Pennsylvania,Philadelphia,"1300 block of N 11th St",male,N/A,"Child 0-11",N/A
+"July 10, 2024",Florida,Middleburg,"2410 Clover Ave",female,N/A,"Child 0-11",N/A
+"July 10, 2024",Massachusetts,Boston,"10 Greenwood St",female,N/A,"Child 0-11",N/A
+"July 8, 2024",Florida,"Fort Lauderdale","700 block of NW 10th Terrace",male,"Deagoo Henry","Child 0-11",N/A
+"July 7, 2024",Ohio,Columbus,"4000 block of Carlton Ave",male,"Deavaughn Shealey Jr.","Child 0-11",N/A
+"July 7, 2024",Colorado,Pueblo,"1700 block of Constitution Rd",N/A,N/A,"Child 0-11",N/A
+"July 6, 2024",Florida,Orlando,"700 block of S Oxalis Ave",female,N/A,"Child 0-11",N/A
+"July 6, 2024",Ohio,Akron,"800 block of Morningview Ave",male,N/A,"Child 0-11",N/A
+"July 6, 2024",Indiana,Angola,"450 Ln 100 Lake James",female,N/A,"Child 0-11",N/A
+"July 4, 2024",Illinois,Chicago,"7100 block of S Woodlawn Ave",male,N/A,"Child 0-11",N/A
+"July 4, 2024",Illinois,Chicago,"7100 block of S Woodlawn Ave",male,Jacoby,"Child 0-11",N/A
+"July 4, 2024",Mississippi,"Ocean Springs","Cumberland Rd",N/A,N/A,"Child 0-11",N/A
+"July 4, 2024",Mississippi,"Ocean Springs","Cumberland Rd",N/A,N/A,"Child 0-11",N/A
+"July 4, 2024",Mississippi,"Ocean Springs","Cumberland Rd",N/A,N/A,"Child 0-11",N/A
+"July 4, 2024",Indiana,Indianapolis,"1100 block of N Tuxedo St",male,"Jataeviuos Ragsdale","Child 0-11",N/A
+"July 3, 2024",Kentucky,Louisville,"1700 block of Gallagher St",N/A,N/A,"Child 0-11",N/A
+"July 3, 2024",Missouri,"Saint Louis","11100 block of Pritchard Dr",female,N/A,"Child 0-11",N/A
+"July 2, 2024",Georgia,Atlanta,"1043 Sparks St SW",male,"Dontavious “DJ” Davis","Child 0-11",N/A
+"July 2, 2024","North Carolina","Red Springs","New Mexico Dr",N/A,N/A,"Child 0-11",N/A
+"July 2, 2024",California,Sacramento,"2600 block of Kit Carson St",female,N/A,"Child 0-11",N/A
+"July 2, 2024",Maine,Sanford,"13 Shaw Rd",male,N/A,"Child 0-11",N/A
+"July 1, 2024",Virginia,Lawrenceville,"312 Brunswick Village Dr",male,N/A,"Child 0-11",N/A
+"July 1, 2024",Oklahoma,"Oklahoma City","NE 15th St and Martin Luther King Ave",male,N/A,"Child 0-11",N/A
+"June 30, 2024",Iowa,Waterloo,"1900 Lafayette St",N/A,N/A,"Child 0-11",N/A
+"June 30, 2024",Texas,Arlington,"1000 block of Tennessee Trl",female,N/A,"Child 0-11",N/A
+"June 29, 2024",Virginia,Martinsville,"101 Preston Scales Rd",female,N/A,"Child 0-11",N/A
+"June 29, 2024","South Carolina",Longs,"500 block of Sandridge Loop",N/A,N/A,"Child 0-11",N/A
+"June 28, 2024",Nebraska,Crete,"1200 block of Crestline Dr",N/A,N/A,"Child 0-11",N/A
+"June 28, 2024",Nebraska,Crete,"1200 block of Crestline Dr",N/A,N/A,"Child 0-11",N/A
+"June 28, 2024",Nebraska,Crete,"1200 block of Crestline Dr",N/A,N/A,"Child 0-11",N/A
+"June 28, 2024",Nebraska,Crete,"1200 block of Crestline Dr",N/A,N/A,"Child 0-11",N/A
+"June 28, 2024",California,Atwater,"100 block of Castle Dr",N/A,N/A,"Child 0-11",N/A
+"June 27, 2024",Tennessee,Memphis,"2800 block of Spring Hill Dr",male,N/A,"Child 0-11",N/A
+"June 27, 2024",Wisconsin,Milwaukee,"4400 block of N 44th St",N/A,N/A,"Child 0-11",N/A
+"June 26, 2024",Wisconsin,Milwaukee,"5912 W Oklahoma Ave",female,N/A,"Child 0-11",N/A
+"June 26, 2024",Wisconsin,Milwaukee,"5912 W Oklahoma Ave",female,N/A,"Child 0-11",N/A
+"June 25, 2024",Minnesota,Elgin,N/A,male,N/A,"Child 0-11",N/A
+"June 24, 2024",Pennsylvania,Philadelphia,"1800 block of Gillingham St",male,N/A,"Child 0-11",N/A
+"June 24, 2024",Utah,Stockton,N/A,N/A,N/A,"Child 0-11",N/A
+"June 24, 2024",Ohio,Dayton,"4900 block of Genesee Ave",male,N/A,"Child 0-11",N/A
+"June 23, 2024",Georgia,Atlanta,"4335 Fulton Industrial Blvd",female,"Skylar Adams","Child 0-11",N/A
+"June 23, 2024",Missouri,"Kansas City","6000 block of Bellefontaine Ave",male,N/A,"Child 0-11",N/A
+"June 21, 2024",Louisiana,Bastrop,"1220 E Madison Ave",male,N/A,"Child 0-11",N/A
+"June 21, 2024","New York",Buffalo,"50 block of Domedion Ave",female,"Jamiah Carter","Child 0-11",N/A
+"June 20, 2024",Wisconsin,Milwaukee,"N 64th St and W Silver Spring Dr",female,N/A,"Child 0-11",N/A
+"June 19, 2024",Ohio,Cleveland,"400 block of E 108th St",female,N/A,"Child 0-11",N/A
+"June 19, 2024",Alabama,Birmingham,"600 24th St N",male,Roman,"Child 0-11",N/A
+"June 17, 2024",Missouri,Kirksville,"Sugar Creek Shooting Range",female,N/A,"Child 0-11",N/A
+"June 17, 2024",Illinois,Peoria,"700 block of E Kansas St",male,N/A,"Child 0-11",N/A
+"June 16, 2024",Georgia,Columbus,"400 block of Old Buena Vista Rd",N/A,N/A,"Child 0-11",N/A
+"June 16, 2024",Texas,Dallas,"Murdock Rd",N/A,N/A,"Child 0-11",N/A
+"June 16, 2024",Virginia,Petersburg,"800 block of E Bank St",male,N/A,"Child 0-11",N/A
+"June 16, 2024",Colorado,Denver,"E 45th Ave and Havana St",N/A,N/A,"Child 0-11",N/A
+"June 15, 2024",Michigan,Eastpointe,"21000 block of Nevada Ave",male,N/A,"Child 0-11",N/A
+"June 15, 2024",Michigan,"Rochester (Rochester Hills)","1585 E Auburn Rd",male,"Julen Bebout","Child 0-11",N/A
+"June 15, 2024",Michigan,"Rochester (Rochester Hills)","1585 E Auburn Rd",male,"Janek Bebout","Child 0-11",N/A
+"June 15, 2024",Wisconsin,Milwaukee,"3717 W Meinecke Ave",male,N/A,"Child 0-11",N/A
+"June 15, 2024",Maryland,"Oxon Hill","5211 Boydell Ave",male,N/A,"Child 0-11",N/A
+"June 15, 2024",Texas,"Round Rock","1371 Harrell Pkwy",N/A,N/A,"Child 0-11",N/A
+"June 15, 2024",Texas,"Round Rock","1371 Harrell Pkwy",N/A,N/A,"Child 0-11",N/A
+"June 14, 2024",Michigan,Flint,"3200 block of Begole St",N/A,N/A,"Child 0-11",N/A
+"June 14, 2024","West Virginia",Princeton,"347 Meadowfield Ln",N/A,N/A,"Child 0-11",N/A
+"June 13, 2024",Alabama,Birmingham,"2802 Potts Hollow Rd",male,N/A,"Child 0-11",N/A
+"June 13, 2024",Ohio,Toledo,"353 E Lake St",female,N/A,"Child 0-11",N/A
+"June 13, 2024",Alabama,Trinity,"100 block of Co Rd 390",male,N/A,"Child 0-11",N/A
+"June 13, 2024",Pennsylvania,Allentown,"W Allen St and N Nagle St",male,N/A,"Child 0-11",N/A
+"June 13, 2024",Tennessee,Memphis,"1400 block of Kerr Ave",male,N/A,"Child 0-11",N/A
+"June 11, 2024",Tennessee,Memphis,"I-240 and Poplar Ave",female,"Zuri Meeks","Child 0-11",N/A
+"June 11, 2024",Tennessee,Memphis,"I-240 and Poplar Ave",male,"Ace Meeks","Child 0-11",N/A
+"June 11, 2024",Tennessee,Memphis,"I-240 and Poplar Ave",male,"Antonio ""AJ"" Meeks Jr.","Child 0-11",N/A
+"June 11, 2024",Tennessee,Memphis,"I-240 and Poplar Ave",male,"Kyree Garrett","Child 0-11",N/A
+"June 10, 2024",Georgia,Jonesboro,"681 Flint River Rd",female,N/A,"Child 0-11",N/A
+"June 10, 2024","North Carolina",Durham,"710 Fayetteville St",male,N/A,"Child 0-11",N/A
+"June 9, 2024",Florida,Milton,"1016 Adrian Way",N/A,N/A,"Child 0-11",N/A
+"June 9, 2024",Alabama,"Birmingham (Midfield)",N/A,male,N/A,"Child 0-11",N/A
+"June 8, 2024",Alabama,"Birmingham (Midfield)","Rayfield Dr",male,N/A,"Child 0-11",N/A
+"June 8, 2024",Texas,"Texas City","2602 21st St N",N/A,N/A,"Child 0-11",N/A
+"June 7, 2024","North Carolina",Whiteville,"1800 block of Mille Christine Rd",male,N/A,"Child 0-11",N/A
+"June 5, 2024",Mississippi,Jackson,"2800 block of Charleston Dr",female,N/A,"Child 0-11",N/A
+"June 4, 2024",Georgia,Lagrange,"1600 block of Bartley Rd",female,N/A,"Child 0-11",N/A
+"June 4, 2024",Maryland,"Montgomery Village","18724 Walkers Choice Rd",female,N/A,"Child 0-11",N/A
+"June 3, 2024","New York",Brooklyn,"2176 Dean St",female,"Ruanna Brown","Child 0-11",N/A
+"June 3, 2024","New York",Brooklyn,"2176 Dean St",female,"Empress Alexander Davis","Child 0-11",N/A
+"June 3, 2024",Arkansas,Jacksonville,"300 N Bailey Blvd",N/A,N/A,"Child 0-11",N/A
+"June 2, 2024",Wisconsin,Milwaukee,"N 91st St and W Congress St",N/A,N/A,"Child 0-11",N/A
+"June 2, 2024",Maryland,"Hyattsville (Cheverly)","6400 block of Landover Rd",female,N/A,"Child 0-11",N/A
+"June 2, 2024",Missouri,"Saint Louis","4100 block of Shreve Ave",N/A,N/A,"Child 0-11",N/A
+"June 2, 2024",Pennsylvania,Columbia,"500 block of Locust St",male,N/A,"Child 0-11",N/A
+"June 1, 2024",Ohio,"Dayton (Trotwood)","400 block of Outer Belle Dr",N/A,N/A,"Child 0-11",N/A
+"June 1, 2024","New Mexico",Albuquerque,"3700 block of General Chennault St NE",male,N/A,"Child 0-11",N/A
+"June 1, 2024","South Carolina",Walterboro,"100 block of London Ln",male,"Chase Sanders","Child 0-11",N/A
+"June 1, 2024",Missouri,"Kansas City",N/A,male,N/A,"Child 0-11",N/A
+"May 31, 2024",Texas,Houston,"7120 Scott St",male,N/A,"Child 0-11",N/A
+"May 30, 2024",Texas,Spring,"23770 Springwoods Village Pkwy",female,N/A,"Child 0-11",N/A
+"May 30, 2024",Michigan,Detroit,"15200 block of Whitcomb St",male,Christian,"Child 0-11",N/A
+"May 29, 2024",Michigan,Flint,"3721 Corunna Rd",female,N/A,"Child 0-11",N/A
+"May 28, 2024",Virginia,Hampton,"100 block of Clyde St",female,"Symphony Tyler","Child 0-11",N/A
+"May 28, 2024",Alabama,"Mobile (Prichard)","3703 Vinewood Dr",male,"Messiah Crenshaw","Child 0-11",N/A
+"May 27, 2024",Florida,"Fort Lauderdale (Lauderhill)","1531 N State Rd 7",male,"Jeffrey Jackson","Child 0-11",N/A
+"May 26, 2024",Tennessee,Chattanooga,"1000 block of Passenger St",N/A,N/A,"Child 0-11",N/A
+"May 25, 2024",Minnesota,"Saint Paul","1000 block of Fuller Ave N",male,N/A,"Child 0-11",N/A
+"May 25, 2024",Florida,"Port Charlotte","Pulaski St",male,N/A,"Child 0-11",N/A
+"May 25, 2024","New Jersey","Atlantic City","100 block of N Rhode Island Ave",male,N/A,"Child 0-11",N/A
+"May 25, 2024",Illinois,Zion,"Galilee Ave and 22nd St",female,N/A,"Child 0-11",N/A
+"May 23, 2024",Pennsylvania,Philadelphia,"300 block of E Allegheny Ave",female,"Keilyn Natareno","Child 0-11",N/A
+"May 22, 2024",Michigan,Detroit,"3100 block of S Ethel St",male,N/A,"Child 0-11",N/A
+"May 22, 2024",Alabama,Birmingham,"8101 4th Ave N",male,N/A,"Child 0-11",N/A
+"May 21, 2024",Iowa,Marshalltown,"2700 block of W Main St",N/A,N/A,"Child 0-11",N/A
+"May 19, 2024",Minnesota,Minneapolis,"2900 block of 18th Avenue S",male,Suriel,"Child 0-11",N/A
+"May 18, 2024","North Carolina",Reidsville,"8110 Cherry Grove Rd",N/A,N/A,"Child 0-11",N/A
+"May 18, 2024",Nevada,"Las Vegas","7350 Prairie Falcon Rd",male,N/A,"Child 0-11",N/A
+"May 18, 2024",Illinois,Chicago,"6800 block of S Wabash Ave",female,N/A,"Child 0-11",N/A
+"May 17, 2024",Arizona,Surprise,"N 168th Dr and W Canterbury Dr",male,Jaxson,"Child 0-11",N/A
+"May 17, 2024",Louisiana,"New Orleans","7800 block of Star St",N/A,N/A,"Child 0-11",N/A
+"May 16, 2024",Wisconsin,Milwaukee,"N 76th St and W Silver Spring Dr",male,"Isaiah Brooks","Child 0-11",N/A
+"May 16, 2024",Missouri,"Kansas City","E 90 Ter and Raytown Rd",female,N/A,"Child 0-11",N/A
+"May 16, 2024",Arizona,Mesa,"9913 E Main St",male,N/A,"Child 0-11",N/A
+"May 15, 2024",Pennsylvania,Pottstown,"400 block of West St",male,N/A,"Child 0-11",N/A
+"May 15, 2024",Missouri,"Saint Louis","8815 N Broadway",male,N/A,"Child 0-11",N/A
+"May 13, 2024",Missouri,"Kansas City","Olive St and E 52nd St",female,N/A,"Child 0-11",N/A
+"May 12, 2024","New York",Troy,"Fourth St and Madison St",female,Zy,"Child 0-11",N/A
+"May 12, 2024",Alabama,Birmingham,"1500 block of Cullman Ave",male,N/A,"Child 0-11",N/A
+"May 12, 2024","North Carolina",Clinton,"84 Lockamy Rd",N/A,N/A,"Child 0-11",N/A
+"May 12, 2024",Alabama,Birmingham,"7527 66th St S",female,N/A,"Child 0-11",N/A
+"May 11, 2024",Louisiana,Tickfaw,"Ed Brown Rd",female,"Tai'lynn Hines","Child 0-11",N/A
+"May 11, 2024",Tennessee,Knoxville,"957 E Hill Ave",female,"Wynter Thomas","Child 0-11",N/A
+"May 9, 2024",Missouri,"Saint Louis","1900 block of Chambers Rd",N/A,N/A,"Child 0-11",N/A
+"May 9, 2024",Pennsylvania,Philadelphia,"W Passyunk Ave and S 61st St",female,N/A,"Child 0-11",N/A
+"May 8, 2024",Texas,"San Antonio","6708 Windsor Hollow Dr",male,Michael,"Child 0-11",N/A
+"May 8, 2024",Texas,"San Antonio","6708 Windsor Hollow Dr",male,Keanu,"Child 0-11",N/A
+"May 8, 2024","South Carolina",Blythewood,"1000 block of Turtle Stone Rd",male,N/A,"Child 0-11",N/A
+"May 7, 2024",Florida,"Wesley Chapel","Stengal Loop",male,N/A,"Child 0-11",N/A
+"May 7, 2024",Texas,Spring,"21200 block of Shadow River Ln",male,N/A,"Child 0-11",N/A
+"May 6, 2024",Tennessee,Memphis,"3900 block of Bertram Cove",male,N/A,"Child 0-11",N/A
+"May 5, 2024",Kentucky,Louisville,"100 block of Kingston Ave",male,N/A,"Child 0-11",N/A
+"May 5, 2024",California,Victorville,"15366 La Paz Dr",male,N/A,"Child 0-11",N/A
+"May 5, 2024","New Mexico",Gallup,"1500 block of S 2nd St",male,N/A,"Child 0-11",N/A
+"May 4, 2024",Michigan,"Benton Harbor","E Britain Ave and Broadway",female,N/A,"Child 0-11",N/A
+"May 4, 2024",California,Fresno,"4421 E Hedges Ave",male,N/A,"Child 0-11",N/A
+"May 3, 2024",Alabama,Madison,"115 Graphics Dr",female,N/A,"Child 0-11",N/A
+"May 3, 2024",Maryland,Severn,"Stillmeadows Rd and Averill Ct",female,N/A,"Child 0-11",N/A
+"May 3, 2024","New Mexico",Clovis,"1899 NM-209",female,N/A,"Child 0-11",N/A
+"May 2, 2024","South Carolina",Buffalo,N/A,male,N/A,"Child 0-11",N/A
+"May 2, 2024",Florida,"Defuniak Springs","W Cypress Ave and Cottonwood Blair Rd",male,"Tristan Jones","Child 0-11",N/A
+"May 1, 2024",Michigan,Detroit,"18400 block of Cathedral St",N/A,N/A,"Child 0-11",N/A
+"May 1, 2024",Georgia,Columbus,"4500 block of Tracy St",male,"Cameron Thomas","Child 0-11",N/A
+"May 1, 2024",Michigan,Detroit,"Faust Ave and Westfield Ave",female,N/A,"Child 0-11",N/A
+"May 1, 2024",Michigan,Detroit,"Faust Ave and Westfield Ave",male,"Gabriel Davis","Child 0-11",N/A
+"May 1, 2024",Texas,"Fort Worth","3096 Las Vegas Trl",N/A,N/A,"Child 0-11",N/A
+"May 1, 2024",Texas,"Fort Worth","3096 Las Vegas Trl",N/A,N/A,"Child 0-11",N/A
+"May 1, 2024",Texas,"Fort Worth","3096 Las Vegas Trl",female,"Me'Chelle Kinney","Child 0-11",N/A
+"May 1, 2024",Texas,"Fort Worth","3096 Las Vegas Trl",male,"Ka'Vion Kinney","Child 0-11",N/A
+"April 29, 2024",Alabama,Anniston,"3300 block of Eulaton Rd",male,N/A,"Child 0-11",N/A
+"April 28, 2024","North Carolina",Charlotte,"10300 block of Wheatside Dr",male,N/A,"Child 0-11",N/A
+"April 28, 2024",Florida,Homestead,"2592 SE 15th Ct",male,N/A,"Child 0-11",N/A
+"April 28, 2024",Alabama,Mobile,"3351 Denmark Rd",male,N/A,"Child 0-11",N/A
+"April 26, 2024",Tennessee,Memphis,"500 block of E Mallory Ave",male,N/A,"Child 0-11",N/A
+"April 26, 2024","North Carolina","Red Springs","Childrens Rd and Pearsall Rd",N/A,N/A,"Child 0-11",N/A
+"April 26, 2024",Wisconsin,Milwaukee,"N 67th St and W Fond du Lac Ave",N/A,N/A,"Child 0-11",N/A
+"April 26, 2024",Louisiana,Shreveport,"6777 Rasberry Ln",male,N/A,"Child 0-11",N/A
+"April 25, 2024",Michigan,Detroit,N/A,male,N/A,"Child 0-11",N/A
+"April 24, 2024","South Carolina",Allendale,"Mill St",N/A,N/A,"Child 0-11",N/A
+"April 24, 2024","North Carolina",Fayetteville,"4305 Pleasant View Dr",female,N/A,"Child 0-11",N/A
+"April 24, 2024","North Carolina",Salisbury,"1205 S Main St",female,N/A,"Child 0-11",N/A
+"April 23, 2024","District of Columbia",Washington,"4800 block of North Capitol St NE",female,N/A,"Child 0-11",N/A
+"April 23, 2024",Ohio,Cincinnati,"600 block of Straight St",male,N/A,"Child 0-11",N/A
+"April 22, 2024",Tennessee,Atoka,"Billings Dr and McGowan Dr",male,N/A,"Child 0-11",N/A
+"April 21, 2024",Oklahoma,"Oklahoma City","1620 Heyman St",female,N/A,"Child 0-11",N/A
+"April 21, 2024",Georgia,Atlanta,"2333 Omaha Rd SW",male,N/A,"Child 0-11",N/A
+"April 21, 2024",Oregon,Fields,"Whitehorse Ranch Ln",N/A,N/A,"Child 0-11",N/A
+"April 19, 2024",Michigan,Warren,"25108 Hoover Rd",male,N/A,"Child 0-11",N/A
+"April 19, 2024",Missouri,"Saint Louis","10100 block of Green Valley Dr",N/A,N/A,"Child 0-11",N/A
+"April 17, 2024",Missouri,"Kansas City","E 33rd St and Bales Ave",male,N/A,"Child 0-11",N/A
+"April 16, 2024","North Carolina",Charlotte,"700 block of Cricketwood Ln",male,N/A,"Child 0-11",N/A
+"April 15, 2024","North Carolina",Charlotte,"7117 Snow Ln",N/A,N/A,"Child 0-11",N/A
+"April 14, 2024",Texas,Houston,"7700 block of Corporate Dr",male,"Royder Hernan Lopez Alvarado","Child 0-11",N/A
+"April 13, 2024",Georgia,Atlanta,"659 Hutchens Rd SE",male,N/A,"Child 0-11",N/A
+"April 13, 2024",Maryland,Baltimore,"2401 Liberty Heights Ave",female,N/A,"Child 0-11",N/A
+"April 13, 2024",Illinois,Chicago,"1500 block of S Sawyer Ave",male,"Lavarray Tate","Child 0-11",N/A
+"April 13, 2024",Illinois,Chicago,"2021 W 52nd St",male,"Isaiah Mendez","Child 0-11",N/A
+"April 13, 2024",Illinois,Chicago,"2021 W 52nd St",male,"Aaron Mendez","Child 0-11",N/A
+"April 13, 2024",Illinois,Chicago,"2021 W 52nd St",male,N/A,"Child 0-11",N/A
+"April 10, 2024","District of Columbia",Washington,"1100 block of 21st Street NE",male,N/A,"Child 0-11",N/A
+"April 10, 2024",Texas,"San Antonio","NE I-410 Loop and Broadway",male,N/A,"Child 0-11",N/A
+"April 10, 2024",Pennsylvania,Philadelphia,"3137 N Broad St",female,N/A,"Child 0-11",N/A
+"April 9, 2024",Illinois,Chicago,"3245 W North Ave",male,N/A,"Child 0-11",N/A
+"April 8, 2024","New York",Brooklyn,"324 Howard Ave",male,"Demetrius Gordon","Child 0-11",N/A
+"April 8, 2024",Tennessee,Memphis,"E EH Crump Blvd and Mississippi Blvd",male,N/A,"Child 0-11",N/A
+"April 7, 2024",Washington,"Port Angeles","W 15th St and S C St",female,N/A,"Child 0-11",N/A
+"April 7, 2024",Texas,Brownwood,"Co Rd 234",male,N/A,"Child 0-11",N/A
+"April 6, 2024",Minnesota,"Saint Paul","1400 block of Case Ave E",male,N/A,"Child 0-11",N/A
+"April 3, 2024",Florida,"North Miami Beach","17200 block of NE 2nd Ave",male,"James Tidot Jr","Child 0-11",N/A
+"April 2, 2024",Tennessee,Nashville,"814 17th Ave N",male,N/A,"Child 0-11",N/A
+"April 2, 2024",Georgia,Savannah,"500 block of Treat Ave",male,N/A,"Child 0-11",N/A
+"March 31, 2024",Mississippi,Jackson,"2050 Martin Luther King Jr Dr",male,N/A,"Child 0-11",N/A
+"March 31, 2024",Georgia,Atlanta,"200 block of Vine St NW",male,N/A,"Child 0-11",N/A
+"March 30, 2024","New York",Bronx,"100 block of E Fordham Rd",male,N/A,"Child 0-11",N/A
+"March 30, 2024",Ohio,"New Carlisle","800 block of Bayberry Dr",male,N/A,"Child 0-11",N/A
+"March 29, 2024",Minnesota,"Saint Paul","846 Pierce Butler Rte",male,N/A,"Child 0-11",N/A
+"March 29, 2024",Georgia,Fayetteville,"25 Pavilion Pkwy",female,N/A,"Child 0-11",N/A
+"March 29, 2024",Missouri,"Saint Louis","1551 S Grand Blvd",male,N/A,"Child 0-11",N/A
+"March 29, 2024",Massachusetts,Ipswich,"116 County Rd",male,N/A,"Child 0-11",N/A
+"March 28, 2024",Pennsylvania,Philadelphia,"2467 79th Ave",female,N/A,"Child 0-11",N/A
+"March 27, 2024",Texas,Houston,"C E King Pkwy and Tidwell Rd",male,"CJ Junior","Child 0-11",N/A
+"March 27, 2024",Kansas,Wichita,"I-135 and K-15",male,N/A,"Child 0-11",N/A
+"March 27, 2024",Indiana,Indianapolis,"3400 block of Blue Spruce Ln",female,N/A,"Child 0-11",N/A
+"March 27, 2024",Louisiana,Shreveport,"2800 block of Silver Pine Ln",female,N/A,"Child 0-11",N/A
+"March 26, 2024",Louisiana,"Baton Rouge","675 Wooddale Blvd",female,N/A,"Child 0-11",N/A
+"March 26, 2024","New York",Albany,"7 Lark St",male,N/A,"Child 0-11",N/A
+"March 26, 2024","North Carolina",Greensboro,"1100 block of Vance St",male,N/A,"Child 0-11",N/A
+"March 26, 2024",Wisconsin,Milwaukee,"5277 N 38th St",male,"Tarrance Scott, Jr.","Child 0-11",N/A
+"March 25, 2024",Louisiana,Houma,"651 Duval Ave",female,N/A,"Child 0-11",N/A
+"March 25, 2024",Kansas,Wichita,"4300 block of S Deerfield St",N/A,N/A,"Child 0-11",N/A
+"March 23, 2024",Georgia,Douglasville,"4188 E Shore Ct",male,N/A,"Child 0-11",N/A
+"March 23, 2024",California,Stockton,"1700 block of S El Dorado St",female,N/A,"Child 0-11",N/A
+"March 22, 2024",Florida,Hialeah,"950 SE 12th St",male,N/A,"Child 0-11",N/A
+"March 22, 2024",Nevada,"North Las Vegas","2500 block of N Bulloch St",N/A,N/A,"Child 0-11",N/A
+"March 21, 2024",Tennessee,Memphis,"4000 block of New Willow Rd",N/A,N/A,"Child 0-11",N/A
+"March 21, 2024","West Virginia",Huntington,"2767 N Staunton Rd",male,"Christopher Beard","Child 0-11",N/A
+"March 21, 2024",Florida,"Pompano Beach","1700 block of NW Fourth St",male,"Noah West","Child 0-11",N/A
+"March 20, 2024",Arizona,Glendale,"W Camelback Rd and N 67th Ave",male,N/A,"Child 0-11",N/A
+"March 19, 2024",Indiana,Whitestown,"6007 Perry Worth Rd",male,N/A,"Child 0-11",N/A
+"March 16, 2024",Mississippi,Gulfport,"16303 MS-53",N/A,N/A,"Child 0-11",N/A
+"March 16, 2024",Missouri,"Saint Louis (Ferguson)","3582 Pershall Rd",male,N/A,"Child 0-11",N/A
+"March 14, 2024",Tennessee,Memphis,"1300 block of Quinn Ave",female,N/A,"Child 0-11",N/A
+"March 13, 2024",Texas,Houston,"8727 Point Park Dr",female,N/A,"Child 0-11",N/A
+"March 13, 2024",Texas,Tyler,"2601 N Broadway Ave",female,N/A,"Child 0-11",N/A
+"March 13, 2024",Ohio,Cincinnati,"600 block of Dutch Colony Dr",female,N/A,"Child 0-11",N/A
+"March 12, 2024","North Carolina",Durham,"3800 Dearborn Dr",female,"Madison Foye","Child 0-11",N/A
+"March 12, 2024",Florida,Lawtey,"21637 NE 17th Ave",female,N/A,"Child 0-11",N/A
+"March 10, 2024",Tennessee,Antioch,"300 Bakertown Rd",male,N/A,"Child 0-11",N/A
+"March 10, 2024","South Carolina",Columbia,"500 block of Summit Terrace Ct",male,N/A,"Child 0-11",N/A
+"March 8, 2024",Georgia,Athens,"705 Spring Valley Rd",male,N/A,"Child 0-11",N/A
+"March 8, 2024",Texas,Houston,"1300 block of Gillette St",male,"Braylon Benoit","Child 0-11",N/A
+"March 7, 2024",Louisiana,Crowley,"500 block of W Andrus St",female,N/A,"Child 0-11",N/A
+"March 6, 2024",Missouri,"Saint Louis (Lemay)","Telegraph Rd and Kingston Dr",N/A,N/A,"Child 0-11",N/A
+"March 3, 2024",Arkansas,Marianna,"200 block of Sealand St",female,"Legend Tillman","Child 0-11",N/A
+"March 3, 2024","South Carolina","North Charleston","5300 block of Rivers Ave",female,N/A,"Child 0-11",N/A
+"March 2, 2024",Illinois,"Arlington Heights","2300 block of W Nichols St",male,N/A,"Child 0-11",N/A
+"March 1, 2024",Tennessee,Memphis,"1069 N Watkins St",male,N/A,"Child 0-11",N/A
+"March 1, 2024",Virginia,Radford,"3200 block of Peppers Ferry Rd NW",female,N/A,"Child 0-11",N/A
+"February 29, 2024","North Carolina","North Wilkesboro","E Magnolia Rd",N/A,N/A,"Child 0-11",N/A
+"February 28, 2024",California,"San Leandro","400 block of W Juana Ave",male,N/A,"Child 0-11",N/A
+"February 25, 2024",California,"Santa Ana","E 15th St and N Main St",female,N/A,"Child 0-11",N/A
+"February 19, 2024",Georgia,Atlanta,"1371 Kimberly Way SW",male,N/A,"Child 0-11",N/A
+"February 19, 2024",Georgia,Macon,"Ohara Dr S and Ohara Dr N",N/A,N/A,"Child 0-11",N/A
+"February 19, 2024",Ohio,Cleveland,"5107 Gifford Ave",male,N/A,"Child 0-11",N/A
+"February 18, 2024",Alabama,Mobile,"St Stephens Rd and Jones St",female,N/A,"Child 0-11",N/A
+"February 17, 2024","District of Columbia",Washington,"3400 block of 13th Pl SE",male,N/A,"Child 0-11",N/A
+"February 15, 2024",Indiana,"Beech Grove","600 block of Pearlbush Ave",female,N/A,"Child 0-11",N/A
+"February 14, 2024",Michigan,Flint,"6000 block of Cloverlawn Dr",female,"Skye McBride","Child 0-11",N/A
+"February 14, 2024",Missouri,"Saint Louis","800 block of Elias Ave",male,N/A,"Child 0-11",N/A
+"February 14, 2024",Missouri,"Kansas City","500 block of N Wabash Ave",N/A,N/A,"Child 0-11",N/A
+"February 14, 2024",Missouri,"Kansas City","30 W Pershing Rd",N/A,N/A,"Child 0-11",N/A
+"February 14, 2024",Missouri,"Kansas City","30 W Pershing Rd",male,"Niko Dotson","Child 0-11",N/A
+"February 14, 2024",Missouri,"Kansas City","30 W Pershing Rd",male,"Samuel Arellano","Child 0-11",N/A
+"February 14, 2024",Missouri,"Kansas City","30 W Pershing Rd",female,"Melia Reyes","Child 0-11",N/A
+"February 14, 2024",Missouri,"Kansas City","30 W Pershing Rd",female,"Madison  Reyes","Child 0-11",N/A
+"February 14, 2024",Washington,"Sedro Woolley","E Alder Dr",male,N/A,"Child 0-11",N/A
+"February 13, 2024",Virginia,"Virginia Beach","3200 block of Peele Ct",male,"Landyn Davis","Child 0-11",N/A
+"February 13, 2024",Louisiana,"New Orleans","6000 block of Chef Menteur Hwy",female,N/A,"Child 0-11",N/A
+"February 11, 2024",Texas,Houston,"3700 Southwest Fwy",male,"Samuel Moreno","Child 0-11",N/A
+"February 11, 2024",Florida,Tampa,"2201 E Osborne Ave",male,N/A,"Child 0-11",N/A
+"February 11, 2024",Ohio,Dayton,"1950 Republic Dr",N/A,N/A,"Child 0-11",N/A
+"February 10, 2024","New York",Bronx,"226 E 203rd St",male,N/A,"Child 0-11",N/A
+"February 10, 2024",Washington,Lakewood,"8012 S Tacoma Way",male,N/A,"Child 0-11",N/A
+"February 8, 2024",Maryland,"Halethorpe (Lansdowne)","50 block of Twin Circle Way",N/A,N/A,"Child 0-11",N/A
+"February 7, 2024",Tennessee,Nashville,"2027 Ed Temple Blvd",male,N/A,"Child 0-11",N/A
+"February 7, 2024","New Mexico",Hobbs,"1405 E Marland St",male,N/A,"Child 0-11",N/A
+"February 5, 2024",Louisiana,"Denham Springs","Benelli Dr",N/A,N/A,"Child 0-11",N/A
+"February 4, 2024",Mississippi,Columbus,"Hairston Bend Rd",male,N/A,"Child 0-11",N/A
+"February 4, 2024",Tennessee,Memphis,"Park Ave and Pendleton St",male,N/A,"Child 0-11",N/A
+"February 3, 2024",Pennsylvania,Harrisburg,"400 block of Crescent St",female,N/A,"Child 0-11",N/A
+"January 30, 2024",Florida,Tampa,"3000 block of N 50th St",female,N/A,"Child 0-11",N/A
+"January 29, 2024",Indiana,Indianapolis,"9156 Granville Ct",male,"Aamyri Deberry","Child 0-11",N/A
+"January 29, 2024",Illinois,Chicago,"6600 block of S Wabash Ave",male,N/A,"Child 0-11",N/A
+"January 28, 2024",Oregon,Bend,"64900 Hunnell Rd",male,N/A,"Child 0-11",N/A
+"January 27, 2024",Mississippi,Grenada,"800 Washington St",female,N/A,"Child 0-11",N/A
+"January 25, 2024",Tennessee,Jackson,"157 Cloverdale St",N/A,N/A,"Child 0-11",N/A
+"January 25, 2024",Tennessee,Jackson,"157 Cloverdale St",male,N/A,"Child 0-11",N/A
+"January 25, 2024",Tennessee,Jackson,"157 Cloverdale St",male,"Larell Collier","Child 0-11",N/A
+"January 25, 2024",Pennsylvania,Titusville,"W Oak St",male,N/A,"Child 0-11",N/A
+"January 24, 2024",Virginia,Richmond,"Richmond Hwy",N/A,N/A,"Child 0-11",N/A
+"January 22, 2024",Delaware,Wilmington,"500 block of W 40th St",female,N/A,"Child 0-11",N/A
+"January 22, 2024",Texas,Austin,"1300 block of W Ben White Blvd",female,N/A,"Child 0-11",N/A
+"January 21, 2024",Colorado,"Colorado Springs","5300 block of Kingscote Dr",male,N/A,"Child 0-11",N/A
+"January 18, 2024",Tennessee,Memphis,"1400 block of Reata Pass",male,N/A,"Child 0-11",N/A
+"January 18, 2024",Colorado,"Colorado Springs","4000 block of Colony Hills Cir",female,N/A,"Child 0-11",N/A
+"January 18, 2024",Alabama,Mobile,"Cottage Hill Rd and Wildwood Dr",female,"Amira Nelson","Child 0-11",N/A
+"January 18, 2024","North Carolina",Durham,"802 Liberty St",female,N/A,"Child 0-11",N/A
+"January 15, 2024",Alabama,"Mobile (Prichard)","I-165 and New Bay Bridge Rd",male,"Keelan Jones","Child 0-11",N/A
+"January 14, 2024",Texas,"Fort Worth","1251 Eastchase Pkwy",N/A,N/A,"Child 0-11",N/A
+"January 14, 2024",Georgia,Atlanta,"3202 Martin Luther King Jr Dr",male,N/A,"Child 0-11",N/A
+"January 13, 2024",Florida,Plantation,"6900 block of W Sunrise Blvd",N/A,N/A,"Child 0-11",N/A
+"January 12, 2024","New Mexico",Hurley,"200 block of D St",male,"Jason Acosta","Child 0-11",N/A
+"January 12, 2024",Louisiana,Shreveport,"Westbrook Dr",N/A,N/A,"Child 0-11",N/A
+"January 12, 2024","New Jersey",Trenton,"137 Frazier St",N/A,N/A,"Child 0-11",N/A
+"January 10, 2024",Louisiana,"Baton Rouge","999 Rosenwald Rd",N/A,N/A,"Child 0-11",N/A
+"January 9, 2024","New Mexico",Albuquerque,"437 Mesilla St SE",male,N/A,"Child 0-11",N/A
+"January 7, 2024",Michigan,Flint,"Kingston Ave",male,N/A,"Child 0-11",N/A
+"January 7, 2024",Pennsylvania,Philadelphia,"3514 Joyce St",male,N/A,"Child 0-11",N/A
+"January 7, 2024",Alaska,Anchorage,"4900 block of E 43rd Ave",male,N/A,"Child 0-11",N/A
+"January 6, 2024",Georgia,Augusta,"2400 block of 3rd Ave",N/A,N/A,"Child 0-11",N/A
+"January 4, 2024",Illinois,Chicago,"200 block of W 95th St",male,N/A,"Child 0-11",N/A
+"January 4, 2024",Ohio,Fairfield,"S Timber Hollow Dr",male,N/A,"Child 0-11",N/A
+"January 3, 2024","North Carolina","Rocky Mount","600 block of Dexter St",male,N/A,"Child 0-11",N/A
+"January 3, 2024",Florida,Jacksonville,"11000 block of Oaklawn Rd",female,N/A,"Child 0-11",N/A
+"January 2, 2024",Ohio,Cleveland,"3200 block of E 93rd St",N/A,N/A,"Child 0-11",N/A
+"January 2, 2024",Illinois,Cicero,"1833 48th Ct",male,N/A,"Child 0-11",N/A
+"January 2, 2024",Texas,Amarillo,"1300 block of Aster St",male,N/A,"Child 0-11",N/A
+"January 2, 2024",California,"San Francisco","1000 block of Connecticut St",female,N/A,"Child 0-11",N/A
+"January 2, 2024",California,"San Francisco","1000 block of Connecticut St",female,N/A,"Child 0-11",N/A
+"January 1, 2024",Texas,"Missouri City",N/A,male,N/A,"Child 0-11",N/A
+"January 1, 2024",Florida,Hollywood,"2500 block of Pierce St",male,"Travoynne Martin Jr","Child 0-11",N/A
+"January 1, 2024",California,Winton,"Crawford St and Rex Ave",male,N/A,"Child 0-11",N/A
+"January 1, 2024",Minnesota,Minneapolis,"2300 block of N Bryant Ave",female,"Laneria Wilson","Child 0-11",N/A
+"January 1, 2024",Texas,Houston,"10200 Shady Ln",male,N/A,"Child 0-11",N/A
